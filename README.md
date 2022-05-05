@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./img/github-header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile+!)](https://git.io/typing-svg)
 
