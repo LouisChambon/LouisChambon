@@ -9,9 +9,12 @@
     Studying at: Epitech;
     Enjoy: {
          The Weeknd <3;
+         Korea;
          IT;
+         Mode;
          Partys;
-         Games;
+         Cooking;
+         Gaming;
     }
 }
 ```
