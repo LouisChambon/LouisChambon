@@ -1,37 +1,4 @@
-![Header](./img/github-header-image.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile+!)](https://git.io/typing-svg)
-
-## About Me : :question:
-```
-{
-    Age: 20;
-    Studying at: Epitech;
-    Enjoy: {
-         The Weeknd <3;
-         Korea;
-         IT;
-         Mode;
-         Partys;
-         Cooking;
-         Gaming;
-    }
-}
-```
-
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> &emsp; <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"/> &emsp;
-
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> &emsp; &emsp; <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> &emsp; &emsp; <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/> &emsp; &emsp; <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-
-
-## Music : :notes:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=335or0b2wou7s62w2qmgnm7em&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-## Stats : :octopus:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louischambon&show_icons=true&theme=tokyonight)
 
 
 ## Languages & Tools : :dolphin:
